@@ -33,7 +33,7 @@ public class Smash extends JFrame implements ActionListener, KeyListener {
             clip.start();
         }
         catch (Exception ex){
-            System.err.println("music.wav");
+            System.err.println("Audio file 'music.wav' not found.");
         }
     	game = new GamePanel();
     	add(game);
