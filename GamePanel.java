@@ -644,7 +644,7 @@ public class GamePanel extends JPanel {
         	g.drawImage(mainBack, 0, 0, this);
         	g.drawImage(mainText, 360, 100, this);
         	g.setFont(new Font("Earth Orbiter", Font.PLAIN, 30));
-        	g.drawString("Cameron Beneteau & Luka David", 10, 30);
+        	g.drawString("By: Cameron Beneteau", 10, 30);
         	g.setFont(new Font("Earth Orbiter", Font.PLAIN, 55));
         	g.drawString("Press ENTER to start", 330, 640);
         }
