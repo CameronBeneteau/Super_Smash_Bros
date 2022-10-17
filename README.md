@@ -34,7 +34,7 @@ Check out the demo video for this project [here TODO](https://youtu.be/iMbGX3d2M
 
 To successfully run this project, please follow these steps to set up your environment:
 
-1. Any IDE that runs Java (we recommend [IntelliJ IDEA](https://www.jetbrains.com/idea/), [JCreator](https://www.deepcrazyworld.com/how-to-download-jcreator-pro/) or [VS Code](https://code.visualstudio.com/download))
+1. Any IDE that runs Java (I recommend [IntelliJ IDEA](https://www.jetbrains.com/idea/), [JCreator](https://www.deepcrazyworld.com/how-to-download-jcreator-pro/) or [VS Code](https://code.visualstudio.com/download))
 2. Java SE 8 (which includes JDK 1.8.0_333) ([Download from Oracle](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html))
 3. Ensure your IDE is configured to use the above version of Java SE and JDK
 
