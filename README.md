@@ -7,7 +7,7 @@ A two-player remake of the classic fighting game Super Smash Bros! Made in 24 ho
 Event: [MasseyHacks IV](https://mh4.masseyhacks.ca/) (Grade 11)  
 Date: April 28-29, 2018
 
-![Tenacious Tanks Gif TODO](assets/TenaciousTanksGif.gif)
+![Super Smash Bros Gif](Screenshots/SuperSmashBroGif.gif)
 
 ## Table of Contents
 [1. Intro](#Intro)  
@@ -42,25 +42,24 @@ To successfully run this project, please follow these steps to set up your envir
 
 All instructions can be found in the game after pressing 'ENTER' on the main screen.
 
-Run the [Smash.java](src/Smash.java) file to play!
+Run the [Smash.java](Smash.java) file to play!
 
 ## Results
 
-TODO
+I am extremely happy I was able to participate in MasseyHacks IV to build this project.
 
-All-in-all, the project was a great success! We had an enjoyable time developing this game while learning Java and object-oriented programming.
+The 24-hour time constraint was easily the hardest but most enjoyable part of this experience.
 
-Even better: Our classmates and teachers had a great time fighting on the battlefield for ultimate bragging rights!
+It was a big challenge to try to build a game this fast, but it kept me on my feet and forced me to think of neat and creative ways to overcome the various challenges I faced through this development process.
 
-**Grade: 100%**
+There are definitely some things I would like to go back and change/clean up!
+
+Although this game did not win any prizes at the hackathon, it was awesome to see my creation come to life - especially after letting the judges and other hackers play against each other!
 
 ## Next Steps
 Some fun things I would like to build on or explore relating to this project would be:
 
-- Ability for players to customize their tank
-- Ability for players to choose different map themes
-- Display previous shot trajectory and info to help users make their next shot more precise
-- Controls icons next to power and angle text fields in case users forget their controls
-- 
-- 
+- Develop enemy AI characters for users to play against
+- Allow players to choose various characters
+- Have multiple types of attacks and combos
 - Add sound effects to various in-game events (attack, jump, death, etc.)
