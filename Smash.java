@@ -23,7 +23,7 @@ public class Smash extends JFrame implements ActionListener, KeyListener {
 
 
     public Smash() {
-    	super("Super Smash Bros Brawl");
+    	super("Super Smash Bros");
     	setSize(screenX, screenY);
     	myTimer = new Timer (10, this);
     	myTimer.start();
