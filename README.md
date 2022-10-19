@@ -1,13 +1,11 @@
 # Super Smash Bros
 
-A two-player remake of the classic fighting game Super Smash Bros! Made in 24 hours using Java Swing!
-
-([Demo Video TODO](YOUTUBE LINK HERE))
+A two-player remake of the classic fighting game Super Smash Bros! Made in 24 hours using Java Swing! ([Demo Video](https://youtu.be/xzXVgzSy6KA))
 
 Event: [MasseyHacks IV](https://mh4.masseyhacks.ca/) (Grade 11)  
 Date: April 28-29, 2018
 
-![Super Smash Bros Gif](Screenshots/SuperSmashBroGif.gif)
+![Super Smash Bros Gif](Screenshots/SuperSmashBrosGif.gif)
 
 ## Table of Contents
 [1. Intro](#Intro)  
@@ -25,7 +23,7 @@ This game was made using Java. It utilizes object-oriented programming and other
 
 ## Gameplay
 
-Check out the demo video for this project [here TODO](https://youtu.be/iMbGX3d2MWY)!
+Check out the demo video for this project [here](https://youtu.be/xzXVgzSy6KA)!
 
 ![Super Smash Bros Main](Screenshots/SuperSmashBrosMain.png)  
 ![Super Smash Bros Game](Screenshots/SuperSmashBrosArena1.png)
