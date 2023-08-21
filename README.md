@@ -1,6 +1,6 @@
 # Super Smash Bros
 
-A two-player remake of the classic fighting game Super Smash Bros! Made in 24 hours using Java Swing! ([Demo Video](https://youtu.be/xzXVgzSy6KA))
+A two-player remake of the classic fighting game [Super Smash Bros](https://www.smashbros.com/)! Made in 24 hours using Java Swing! ([Demo Video](https://youtu.be/xzXVgzSy6KA))
 
 Event: [MasseyHacks IV](https://mh4.masseyhacks.ca/) (Grade 11)  
 Date: April 28-29, 2018
